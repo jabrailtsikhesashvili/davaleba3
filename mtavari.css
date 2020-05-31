@@ -1,0 +1,91 @@
+.nav {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	color: #EE4036;
+	font-size: 22px;
+	list-style-type: none;
+	display: inline-block;
+}
+.nav1 {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	color: #3D58A6;
+	font-size: 22px;
+	list-style-type: none;
+
+}
+.nav2 {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	color: #3D58A6;
+	font-size: 22px;
+	list-style-type: none;
+}
+.htmlphoto {
+	display: block;
+	margin: auto;
+	width: 1170px;
+	height: 460px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.facebook {
+	margin-left: 70px;
+	margin-top: 28px;
+	width: 14px;
+	height: 30px;
+	border-right: 2px solid #363E97;
+	padding-right: 30px;
+}
+.html {
+	width: 8px;
+	height: 16px;
+	margin-left: 30px;
+	margin-bottom: 7px
+}
+.html1 {
+	width: 8px;
+	height: 30px;
+}
+.html2 {
+	width: 14px;
+	height: 23px;
+}
+.html3 {
+	width: 12px;
+	height: 23px;
+}
+.html4 {
+	width: 17px;
+	height: 23px;
+}
+.html5 {
+	width: 10px;
+	height: 23px;
+}
+.html6 {
+	width: 8px;
+	height: 16px;
+}
+.Youtube{
+	height: 30px;
+	width: 25px;
+	padding-left: 30px;
+}
+.head {
+	display: inline-block;
+	margin-left: 20px;
+}
+ul {
+	display: inline-block;
+}
+.featured {
+	margin-left: 63px;
+}
+.featured1 {
+	font-size: 24px;
+}
+.icon {
+	width: 1170px;
+	margin: auto;
+	display: block;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
